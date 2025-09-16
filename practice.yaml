@@ -1,0 +1,8 @@
+colors:
+ -name:red
+  code:#FF0000
+  -name:green
+   code:#00FF00
+shapes:
+ first:circle
+ second:square
